@@ -10,5 +10,33 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "tasks": [
+    [
+    {
+      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "title": "Learn Angular",
+      "description": "Learn Angular from scratch"
+    },
+    {
+      "id": "3d6f0a44-9ad3-4a5e-97ff-53d0b5cf7de3",
+      "title": "Learn TypeScript",
+      "description": "Learn TypeScript basics"
+    },
+    {
+      "id": "a35f274f-9b89-4a54-bfc4-40b1c6e3b4a9",
+      "title": "Learn RxJS",
+      "description": "Learn RxJS event stream"
+    },
+    {
+      "id": "e7d78b7c-5f8e-45c7-9b1b-56e0b591f98e",
+      "title": "Learn Ngrx",
+      "description": "Learn Ngrx state management"
+    },
+    {
+      "id": "1f2d56e7-b3fc-4e79-9902-5d39b59e4d42",
+      "title": "Learn Angular Material",
+      "description": "Learn Angular Material quickly"
+    }
+  ]
 }
